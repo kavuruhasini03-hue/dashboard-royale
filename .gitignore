@@ -1,0 +1,6 @@
+.playwright-profile/
+embed/node_modules/
+embed/.env*
+
+.env*
+.vercel/

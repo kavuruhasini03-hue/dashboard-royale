@@ -12,6 +12,8 @@ Fictional casino; synthetic data calibrated to public aggregates.
 
 **New here? Start with the [participant guide](GUIDE.md).** It covers the challenge, setup, the datasets, common mistakes and how to submit.
 
+**[Open The Gilded Ace AI/BI dashboard](https://dbc-a3bbfca6-850a.cloud.databricks.com/dashboardsv3/01f1daeb815914e69b3ef75f86f7d789/published?o=7474653288963289)** (Databricks workspace sign-in required). The seven-page definition is in [dashboards/gilded_ace.lvdash.json](dashboards/gilded_ace.lvdash.json).
+
 🎰 **[View the example dashboard](https://tamu-datathon-org.github.io/dashboard-royale/example-dashboard.html)** (layout only; all values are placeholders)
 
 | | |
